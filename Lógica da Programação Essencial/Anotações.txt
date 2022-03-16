@@ -1,0 +1,64 @@
+O que é Lógica, lógica é a coerencia de raciocinio de ideias.
+Lógica de programação significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema.
+Metacognição é pensar como você pensa.
+Abstração é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando caracteristicas menos importantes ou acidentais. (Divide o problema em partes)
+algoritmo é uma sequencia de passos q resolve um problema
+Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples(nativa, ou seja em português a quem o escreve, de forma a ser entendida por qualquer pessoa.
+https://studio.code.org/s/mc/stage/1/puzzle/1
+
+(https://studio.code.org/c/1594247339)
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é a sequencia lógica e coerente do fluxo de dados.
+É um tipo de diagrama e pode ser entendido como uma representação esquemática de um processo.
+
+ 
+
+Variáveis é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão.
+ 
+Uma variável é um espaço na memoria do computador destinado a um dado que é alterado durante a execução do algoritmo.
+Tipos de variáveis: Numéricas, Caracteres, Alfanuméricas ou Lógicas.
+Constantes são valores imutáveis e não são alterados durante a vida útil do programa.
+Variavel sempre se escreve tudo junto e se começa com uma letra, evitar usar acentos.
+http://www.flowgorithm.org
+Expressões aritméticas são expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis
+exemplo
+50+50=100
+total+50
+Operadores aritméticos +-*/^%
+Expressões Literais são expressões com constantes ou variaveis que tem como resultado valores literais. Iremos utilizar as expressões literais na atribuição de valor para uma variável ou constante.
+Operadores relacionais são expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais.As expressões relacionais retornam valores lógicos(verdadeiro/falso)
+exemplo
+1>2 falso
+2>1 verdadeiro
+Tomadas de decisão são 60% da programação, quando escrevemos programas,geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução.
+Concatenação é um termo usado em computação para designar a operação de unir o conteudo de duas strings.
+String é uma sequencia de caracteres.ex. nome e sobrenome.
+Concatenação é tbm um agrupamento de duas ou mais células que, incluindo fórmulas,textos ou outras informações contida no seu interior, dá origem a um unico resultado.
+
+Estrutura de repetição dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
+Linguagem de programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo movel ou em qualquer equipamento que permita sua execução.
+Linguagem de programação é servir de um meio de comunicação entre computadores e humanos.
+Alto nivel são aquelas sintaze e se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina.
+EX: Linguagem C, javascript
+Baixo nivel é aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimento direto da arquitetura do computador para fazer alguma coisa.
+EX:sembly
+Compiladas é uma linguagem de programação em que o código fonte, é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de um processo chamado compilação.
+EX: c sharp, delphi, C++
+Interpretadas é uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador, que em seguida é executado pelo sistema operacional ou processador.
+EX: javascript, PHP, Phyton
+Portugol é uma psedolinguagem que permite ao leitor desenvolver algoritmos estruturados em portugues de forma simples e intuitiva, independentemente da linguagem de programação.
+
+É uma pseudolinguagem que permite ao programador pensar no problema em si e não no equipamento que erá executar o algoritmo.
+
+https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
+
+Desvio Condicionail - se (É utilizada a palavra reservada se, a condição a ser testada entre parenteses e as instruções que devem ser executadas entre chaves caso o desvio seja verdadeiro.
+Boas práticas de programação - comentários (//)
+Desvio condicional - caso - Este comando é similar aos comandos se e senão, e reduz a complexidade na escolha de diversas opções.Apesar de suas similaridades com o se, ele possui algumas diferenças. Neste comando não é possivel o uso de operadores lógicos, ele apenas trabalha com valores definidos.
+Laços de repetição no Portugol - Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
+
+Quebra de linha comando (\n)
+Matriz é uma coleção de variáveis de mesmo tipo, acessiveis com um unico nome e armazenados contiguamente(sequencia) na memória
+A individualização de cada variável de um vetor é feita através do uso de índices.
+Os vetores são matrizes de uma só dimensão.
